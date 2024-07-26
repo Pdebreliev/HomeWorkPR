@@ -1,4 +1,4 @@
-﻿namespace Start
+﻿namespace Start.BasicOOP
 {
     public class StaticClass
     {

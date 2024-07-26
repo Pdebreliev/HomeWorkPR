@@ -1,6 +1,6 @@
 ﻿using System.Drawing;
 
-namespace Start;
+namespace Start.BasicOOP;
 public class Animal
 {
     public string Cat = string.Empty; //Define String
